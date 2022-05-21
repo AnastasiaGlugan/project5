@@ -1,0 +1,50 @@
+.Stix1 {
+    font-style: italic;
+    font-size: 20px;
+    background-color: aqua;
+}
+
+.Stix2 {
+    font-style: oblique;
+    font-size: 40px;
+    background-color: blueviolet;
+}
+
+.Name {
+    font-style: inherit;
+    font-size: 30px;
+    background-color: rgb(18, 187, 187);
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.Virsh {
+    text-shadow: 2px 4px 3px rgba(99, 47, 168, 0.3);
+    text-align: center;
+}
+
+.Virsh1 {
+    text-shadow: 4px 3px 0px #fff, 9px 8px 0px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
+
+.one {
+    font-style: normal;
+    font-size: 20px;
+}
+
+.two {
+    font-style: oblique;
+    font-size: 30px;
+}
+
+.three {
+    font-style: italic;
+    font-size: 40px;
+}
+
+.Style {
+    font-style: normal;
+    font-size: 40px;
+    text-align: center;
+}
